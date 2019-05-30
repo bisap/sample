@@ -1,2 +1,7 @@
 asdasdas
+<<<<<<< HEAD
 Kumar
+=======
+kumar
+biswas
+>>>>>>> 2f2b8f7da0f85409d424191a61b4dfd4242bd3ea
